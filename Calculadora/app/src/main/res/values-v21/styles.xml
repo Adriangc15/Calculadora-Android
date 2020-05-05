@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="BtnDelete" parent="android:Widget.Material.Light.Button">
+        <item name="backgroundTint">@android:color/holo_red_light</item>
+    </style>
+    <style name="BtnNumber" parent="android:Widget.Material.Light.Button">
+        <item name="backgroundTint">@color/colorNumber</item>
+    </style>
+    <style name="BtnSign" parent="android:Widget.Material.Light.Button">
+        <item name="backgroundTint">@color/colorSign</item>
+    </style>
+    <style name="BtnEqual" parent="android:Widget.Material.Light.Button">
+        <item name="backgroundTint">@color/colorEqual</item>
+    </style>
+</resources>
